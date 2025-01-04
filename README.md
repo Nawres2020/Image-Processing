@@ -4,7 +4,7 @@ This project focuses on Image Processing in Computer Vision, showcasing the firs
 Image Processing in Computer Vision
 Image processing refers to a comprehensive set of techniques aimed at manipulating and analyzing digital images to extract meaningful information or enhance their visual quality. These techniques are essential in computer vision applications and include:
 
-1. Image Transformation
+Image Transformation
 Modifying or changing images through:
 
 Geometric Transformations (e.g., scaling, rotation)
