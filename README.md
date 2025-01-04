@@ -1,4 +1,4 @@
-# Image Processing - First Series of Transformations
+# Image Processing -
 
 This project focuses on **Image Processing in Computer Vision**, showcasing the first series of transformations applied to images. The Jupyter notebook included in this repository, `Image_Processing.ipynb`, demonstrates step-by-step implementation of these transformations, providing both the underlying code and visual examples.
 
